@@ -4,14 +4,7 @@
 # NIM : 312210321
 
 ## Modul Praktikum Pemrograman Web
-* Setiap elemen atau field form harus memiliki atribut name. Atribut name merupakan nama dari field yang akan menjadi kunci dan variabel di dalam program. Sedangkan atribut id, sifatnya opsional.
-* Instruksi Praktikum
-1. Persiapkan text editor misalnya VSCode.
-2. Buat folder baru dengan nama Lab3Web
-3. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
-4. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
-* Langkah-langkah Praktikum
-* Persiapan membuat dokumen HTML dengan nama file ```lab3_list.html``` seperti berikut.
+* Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
 ```python
 <!DOCTYPE html>
 <html lang="en">
@@ -69,9 +62,9 @@
 </html>
 ```
 ## Hasil Output
-![gambar 1](C:/Users/Aspire 3/Documents/Zoom/lab3.1.png)
+![gambar 1](foto/lab3.1.png)
 ## Membuat Tabel
-* Buat file baru dengan nama ```lab3_tabel.html``` seperti berikut.
+* Buat file baru dengan nama lab3_tabel.html seperti berikut.
 ```python
 !DOCTYPE html>
 <html lang="en">
@@ -152,9 +145,9 @@
 </html>
 ```
 ## Hasil Output
-![gambar 1](C:/Users/Aspire 3/Documents/Zoom/lab3.2.png)
+![gambar 2](foto/lab3.2.png)
 ## Membuat Form
-* Buat file baru dengan nama ```lab3_form.html``` seperti berikut.
+* Buat file baru dengan nama lab3_form.html seperti berikut.
 ```python
 <!DOCTYPE html>
 <html lang="en">
@@ -209,8 +202,8 @@
 </html>
 ```
 ## Hasil Output
-![gambar 1](C:/Users/Aspire 3/Documents/Zoom/lab3.3.png)
-## Tugas menampilkan ```dropdown menu dan listbox``` dengan multiple selection.
+![gambar 3](foto/lab3.3.png)
+## Tugas menampilkan dropdown menu dan listbox dengan multiple selection.
 ```python
 <!DOCTYPE html>
 <html>
@@ -302,4 +295,4 @@
 </html>
 ```
 ## Hasil Output
-![gambar 1](C:/Users/Aspire 3/Documents/Zoom/lab3.4.png)
+![gambar 4](foto/lab3.4.png)
